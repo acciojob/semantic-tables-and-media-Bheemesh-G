@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+.main-table{
+	border-collapse : collapse;
+	border : 1px solid black;
+}
+
+td{
+	border : 1px solid black;
+	text-align: center;
+	padding : 2px;
+}
+
+th{
+	border : 1px solid black;
+	text-align: center;
+	padding : 5px;
+}
